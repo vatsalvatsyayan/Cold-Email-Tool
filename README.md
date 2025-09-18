@@ -83,7 +83,7 @@
 
 ## 🎬 Demo
 
-*[Demo section - to be added]*
+👉 **[Watch the Demo on YouTube](https://youtu.be/uVQoUVz-BGQ)**
 
 ---
 
