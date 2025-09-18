@@ -85,6 +85,8 @@
 
 👉 **[Watch the Demo on YouTube](https://youtu.be/uVQoUVz-BGQ)**
 
+**[Watch additional features](https://www.youtube.com/watch?v=toawuQKWNSM)**
+
 ---
 
 ## 📊 Impact & Results
