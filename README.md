@@ -105,3 +105,5 @@
 - **DevOps practices** with Docker containerization and cloud deployment
 
 ---
+
+The code (when open sourced) will be available at: https://github.com/vatsalvatsyayan/coldemail-backend
